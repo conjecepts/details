@@ -4,8 +4,6 @@ The aim of the project is to manufacture a simple, efficient and cost effective 
 
 ## SECTIONAL CONTENTS
 
-- [**PROJECT DETAILS**](https://conjecepts.github.io/details/#project-details)
-
   - [LITERATURE SURVEY](https://conjecepts.github.io/details/#literature-survey)
   
   - [HISTORY](https://conjecepts.github.io/details/#history)
