@@ -174,19 +174,19 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 
     The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
-  Ns = 120f/P
+    Ns = 120f/P
 
-  Where, 
+    Where, 
+  
+    f = supply voltage frequency, 
+  
+    P = No. of poles of the motor.
 
-  f = supply voltage frequency, 
+    The construction of the stator of asynchronous motor is similar to that of three phase induction motor except there are two dissimilarity in the winding part of the single phase induction motor.
 
-  P = No. of poles of the motor.
+    Firstly the single phase induction motors are mostly provided with concentric coils. As the number of turns per coil can be easily adjusted with the help of concentric coils, the mmf distribution is almost sinusoidal.
 
-  The construction of the stator of asynchronous motor is similar to that of three phase induction motor except there are two dissimilarity in the winding part of the single phase induction motor.
-
-  Firstly the single phase induction motors are mostly provided with concentric coils. As the number of turns per coil can be easily adjusted with the help of concentric coils, the mmf distribution is almost sinusoidal.
-
-  Except for shaded pole motor, the asynchronous motor has two stator windings namely the main winding and the auxiliary winding. These two windings are placed in space quadrature with respect to each other.
+    Except for shaded pole motor, the asynchronous motor has two stator windings namely the main winding and the auxiliary winding. These two windings are placed in space quadrature with respect to each other.
 
   - Rotor of Single Phase Induction Motor
 
