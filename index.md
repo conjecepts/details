@@ -2,7 +2,7 @@
 
 The aim of the project is to manufacture a simple, efficient and cost effective fan which overcomes most of the drawbacks of the conventional fans available in the market. The system of MagLev fan works on the principle of magnetic levitation, which suspends the rotor of the fan in a cushion of air, such that the rotor is completely independent of the stationary parts of the fan, thus providing less chance for friction. The considerable reduction in the friction also helps to reduce other loss factors such as noise, heat etc. The independent motion of the rotor also helps to attain greater speeds under less power, reducing power consumption. The other advantages of the fan includes high temperature endurance, longer life, prevention of dust penetration, multiple orientation with no noise occurred, lower power consumption, cost effectiveness and less maintenance.
 
-## CONTENTS
+## SECTIONAL CONTENTS
 
 - [**PROJECT DETAILS**](https://conjecepts.github.io/details/#project-details)
 
@@ -77,7 +77,7 @@ This paper reviews and summarizes Maglev train technologies from an electrical e
 
 Linear induction and synchronous motors have been the favored approaches for achieving linear propulsion in the Maglev community. One alternative is PLIM, a less conventional pulsed linear induction motor. Among the advantages realized through PLIM are elimination of low power factor power transfer, smaller end winding overhang, and simpler electronics. Examined in this document are various embodiments of this approach with discrete rectangular guide way coils, and the tradeoffs to using full wave and half wave excitation pulses.
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## HISTORY
