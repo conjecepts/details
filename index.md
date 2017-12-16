@@ -77,7 +77,7 @@ This paper reviews and summarizes Maglev train technologies from an electrical e
 
 Linear induction and synchronous motors have been the favored approaches for achieving linear propulsion in the Maglev community. One alternative is PLIM, a less conventional pulsed linear induction motor. Among the advantages realized through PLIM are elimination of low power factor power transfer, smaller end winding overhang, and simpler electronics. Examined in this document are various embodiments of this approach with discrete rectangular guide way coils, and the tradeoffs to using full wave and half wave excitation pulses.
 
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## HISTORY
