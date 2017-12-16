@@ -20,7 +20,7 @@ The aim of the project is to manufacture a simple, efficient and cost effective 
   
   - [CONCLUSION](https://conjecepts.github.io/details/#conclusion)
   
-  - [REFERENCES](https://conjecepts.github.io/details/#refereces)
+  - [REFERENCES](https://conjecepts.github.io/details/#references)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -169,9 +169,10 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 - CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR
 
   The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
-Stator of Single Phase Induction Motor
 
-  The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
+  - Stator of Single Phase Induction Motor
+
+    The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
   Ns = 120f/P
 
@@ -189,7 +190,7 @@ Stator of Single Phase Induction Motor
 
   - Rotor of Single Phase Induction Motor
 
-  The construction of the rotor of the single phase induction motor is similar to the squirrel cage three phase induction motor. The rotor is cylindrical in shape and has slots all over its periphery. The slots are not made parallel to each other but are bit skewed as the skewing prevents magnetic locking of stator and rotor teeth and makes the working of induction motor more smooth and quieter i.e. less noise. The squirrel cage rotor consists of aluminum, brass or copper bars. These aluminum or copper bars are called rotor conductors and are placed in the slots on the periphery of the rotor. The rotor conductors are permanently shorted by the copper or aluminum rings called the end rings. In order to provide mechanical strength these rotor conductor are braced to the end ring and hence form a complete closed circuit resembling like a cage and hence got its name as squirrel cage induction motor. As the bars are permanently shorted by end rings, the rotor electrical resistance is very small and it is not possible to add external resistance as the bars are permanently shorted. The absence of slip ring and brushes make the construction of single phase induction motor very simple and robust.
+    The construction of the rotor of the single phase induction motor is similar to the squirrel cage three phase induction motor. The rotor is cylindrical in shape and has slots all over its periphery. The slots are not made parallel to each other but are bit skewed as the skewing prevents magnetic locking of stator and rotor teeth and makes the working of induction motor more smooth and quieter i.e. less noise. The squirrel cage rotor consists of aluminum, brass or copper bars. These aluminum or copper bars are called rotor conductors and are placed in the slots on the periphery of the rotor. The rotor conductors are permanently shorted by the copper or aluminum rings called the end rings. In order to provide mechanical strength these rotor conductor are braced to the end ring and hence form a complete closed circuit resembling like a cage and hence got its name as squirrel cage induction motor. As the bars are permanently shorted by end rings, the rotor electrical resistance is very small and it is not possible to add external resistance as the bars are permanently shorted. The absence of slip ring and brushes make the construction of single phase induction motor very simple and robust.
 
 - WORKING PRINCIPLE OF SINGLE PHASE INDUCTION MOTOR
 
