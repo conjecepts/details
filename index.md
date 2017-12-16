@@ -168,7 +168,7 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 
 - **CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR**
 
-  ![Construction](http://img.motors-biz.com/ueditor/php/upload/image/20150916/1442395304119395.jpg)
+    ![Construction](http://img.motors-biz.com/ueditor/php/upload/image/20150916/1442395304119395.jpg)
 
   The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
 
