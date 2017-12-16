@@ -173,7 +173,7 @@ Stator of Single Phase Induction Motor
 
   The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
- Ns = 120f/P
+  Ns = 120f/P
 
   Where, 
 
@@ -189,36 +189,36 @@ Stator of Single Phase Induction Motor
 
   - Rotor of Single Phase Induction Motor
 
-The construction of the rotor of the single phase induction motor is similar to the squirrel cage three phase induction motor. The rotor is cylindrical in shape and has slots all over its periphery. The slots are not made parallel to each other but are bit skewed as the skewing prevents magnetic locking of stator and rotor teeth and makes the working of induction motor more smooth and quieter i.e. less noise. The squirrel cage rotor consists of aluminum, brass or copper bars. These aluminum or copper bars are called rotor conductors and are placed in the slots on the periphery of the rotor. The rotor conductors are permanently shorted by the copper or aluminum rings called the end rings. In order to provide mechanical strength these rotor conductor are braced to the end ring and hence form a complete closed circuit resembling like a cage and hence got its name as squirrel cage induction motor. As the bars are permanently shorted by end rings, the rotor electrical resistance is very small and it is not possible to add external resistance as the bars are permanently shorted. The absence of slip ring and brushes make the construction of single phase induction motor very simple and robust.
+  The construction of the rotor of the single phase induction motor is similar to the squirrel cage three phase induction motor. The rotor is cylindrical in shape and has slots all over its periphery. The slots are not made parallel to each other but are bit skewed as the skewing prevents magnetic locking of stator and rotor teeth and makes the working of induction motor more smooth and quieter i.e. less noise. The squirrel cage rotor consists of aluminum, brass or copper bars. These aluminum or copper bars are called rotor conductors and are placed in the slots on the periphery of the rotor. The rotor conductors are permanently shorted by the copper or aluminum rings called the end rings. In order to provide mechanical strength these rotor conductor are braced to the end ring and hence form a complete closed circuit resembling like a cage and hence got its name as squirrel cage induction motor. As the bars are permanently shorted by end rings, the rotor electrical resistance is very small and it is not possible to add external resistance as the bars are permanently shorted. The absence of slip ring and brushes make the construction of single phase induction motor very simple and robust.
 
 - WORKING PRINCIPLE OF SINGLE PHASE INDUCTION MOTOR
 
-When single phase AC supply is given to the stator winding of single phase induction motor, the alternating current starts flowing through the stator or main winding. This alternating current produces an alternating flux called main flux. This main flux also links with the rotor conductors and hence cut the rotor conductors. According to the Faraday’s law of electromagnetic induction, emf gets induced in the rotor. As the rotor circuit is closed one so, the current starts flowing in the rotor. This current is called the rotor current. This rotor current produces its own flux called rotor flux. Since this flux is produced due to induction principle so, the motor working on this principle got its name as induction motor. Now there are two fluxes one is main flux and another is called rotor flux. These two fluxes produce the desired torque which is required by the motor to rotate.
+  When single phase AC supply is given to the stator winding of single phase induction motor, the alternating current starts flowing through the stator or main winding. This alternating current produces an alternating flux called main flux. This main flux also links with the rotor conductors and hence cut the rotor conductors. According to the Faraday’s law of electromagnetic induction, emf gets induced in the rotor. As the rotor circuit is closed one so, the current starts flowing in the rotor. This current is called the rotor current. This rotor current produces its own flux called rotor flux. Since this flux is produced due to induction principle so, the motor working on this principle got its name as induction motor. Now there are two fluxes one is main flux and another is called rotor flux. These two fluxes produce the desired torque which is required by the motor to rotate.
 
 - THEORY OF OPERATION
   
   - Cross-field theory
- 
- The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in Figure 5.5
- 
-These currents produce an ac flux FR which acts at right angle to the stator flux FS. Equally important is the fact that FR does not reach its maximum value at the same time as FS does, in effect; FR lags almost 90º behind FS, owing to the inductance of the rotor
+  
+  The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in Figure 5.5
+  
+  These currents produce an ac flux FR which acts at right angle to the stator flux FS. Equally important is the fact that FR does not reach its maximum value at the same time as FS does, in effect; FR lags almost 90º behind FS, owing to the inductance of the rotor
 The combined action of FS and FR produces a revolving magnetic field, similar to that in a three-phase motor. The value of FR increases with increasing speed, becoming almost equal to FS at synchronous speed. The flux rotates counterclockwise in the same direction as the rotor and it rotates at synchronous speed irrespective of the actual speed of the rotor. As the motor approaches synchronous speed, FR becomes almost equal to FS and a nearly perfect revolving field is produces.
 
 
   - Double-revolving field theory
-
-The principle of operation of single-phase induction motor can also be explained by double revolving field theory.
+  
+  The principle of operation of single-phase induction motor can also be explained by double revolving field theory.
 The single-phase supply given to the single-phase winding will produce pulsating field in the air gap. However, any pulsating field can be resolved into two components, equal in magnitude but oppositely rotating, as shown in Figure 5.6
  
   - Torque Slip Characteristics
- 
-The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in Figure 5.7
-
-Observe that the resultant torque is zero at standstill. But, if the rotor were rotated slightly in any direction, a net torque will result and the motor will continue to rotate in that direction. For example, if the rotor is started in the clockwise direction, the torque developed by field-1 will exceed torque developed by field-2 and the rotor will accelerate in that direction and reach the steady-state speed near synchronous speed at a slip dictated by the load.
+  
+  The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in Figure 5.7
+  
+  Observe that the resultant torque is zero at standstill. But, if the rotor were rotated slightly in any direction, a net torque will result and the motor will continue to rotate in that direction. For example, if the rotor is started in the clockwise direction, the torque developed by field-1 will exceed torque developed by field-2 and the rotor will accelerate in that direction and reach the steady-state speed near synchronous speed at a slip dictated by the load.
 
 - SPEED REGULATOR
 
-A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in Figure 6.6
+  A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in Figure 6.6
  
 
 The basic principle – voltage across a capacitor is given as Vc = Q/C where Q is the charge and C is the capacitance. According to this formula C α 1/Vc (or voltage across capacitor is inversely proportional to the capacitance). Hence, if capacitance is increased then the voltage across the capacitor decreases allowing more voltage across the fan motor. Hence, if capacitance is increased, speed of the fan motor also increases. Capacitance is increased or decreased in a capacitive type regulator by connecting capacitors in different configurations.
