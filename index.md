@@ -2,25 +2,33 @@
 
 The aim of the project is to manufacture a simple, efficient and cost effective fan which overcomes most of the drawbacks of the conventional fans available in the market. The system of MagLev fan works on the principle of magnetic levitation, which suspends the rotor of the fan in a cushion of air, such that the rotor is completely independent of the stationary parts of the fan, thus providing less chance for friction. The considerable reduction in the friction also helps to reduce other loss factors such as noise, heat etc. The independent motion of the rotor also helps to attain greater speeds under less power, reducing power consumption. The other advantages of the fan includes high temperature endurance, longer life, prevention of dust penetration, multiple orientation with no noise occurred, lower power consumption, cost effectiveness and less maintenance.
 
-When the supply is switched on, the fan rotates as a conventional fan. As the fan picks up the speed, the electromagnets provided above the rotor gets magnetized and lifts up the rotor from the supporting ball bearing structures and rotates on a cushion of air, above the ball bearings and below the electromagnets. The speed controlling of the fan can be brought about by using either electronic regulator of capacitive regulator. While switching off the fan, the electromagnet slowly loses the magnetization and the rotor smoothly lands back onto the ball bearings given below, giving no possible chance for wear and tear.
-
 ## CONTENTS
 
-- PROJECT DETAILS
-  - LITERATURE SURVEY
-  - HISTORY
-  - PROJECT OBJECTIVE
-  - PROJECT DESIGN
-  - WORKING
-  - FUTURE SCOPES
-  - CONCLUSION
+- [**PROJECT DETAILS**](https://conjecepts.github.io/details/#project-details)
+
+  - [LITERATURE SURVEY](https://conjecepts.github.io/details/#literature-survey)
   
-- DOCUMENTS
-- WORK PROGRESS
+  - [HISTORY](https://conjecepts.github.io/details/#history)
+  
+  - [PROJECT OBJECTIVE](https://conjecepts.github.io/details/#project-objective)
+  
+  - [PROJECT DESIGN](https://conjecepts.github.io/details/#project-design)
+  
+  - [WORKING](https://conjecepts.github.io/details/#working)
+  
+  - [FUTURE SCOPES](https://conjecepts.github.io/details/#future-scopes)
+  
+  - [CONCLUSION](https://conjecepts.github.io/details/#conclusion)
+  
+  - [REFERENCES](https://conjecepts.github.io/details/#refereces)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## PROJECT DETAILS
+
+
+When the supply is switched on, the fan rotates as a conventional fan. As the fan picks up the speed, the electromagnets provided above the rotor gets magnetized and lifts up the rotor from the supporting ball bearing structures and rotates on a cushion of air, above the ball bearings and below the electromagnets. The speed controlling of the fan can be brought about by using either electronic regulator of capacitive regulator. While switching off the fan, the electromagnet slowly loses the magnetization and the rotor smoothly lands back onto the ball bearings given below, giving no possible chance for wear and tear.
+
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -46,7 +54,6 @@ This paper will provide a detailed field analysis of a specially designed axial-
 
 `National Sun Yat-Sen University Kaohsiung, Taiwan`
 
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 This paper will provide a thorough evaluation of a specially designed axial-flow radial-flux permanent magnet motor for cooling fan applications. With a passive magnetic suspension segment implemented, the design objective of this motor is to provide a stable guidance force in its axial direction, such that the vibration effects at the entire rotor operational positions can be minimized and the net radial forces applied onto associated bearing system can be alleviated. Supported by dynamic magnetic circuit modeling and static/quasi-dynamic three-dimensional finite element analyses, the operational forces of such motor, either with or without magnetic suspension, at its respective radial, axial, and tangential directions will all be evaluated. Results show that the motor, which being implemented with a low-cost passive magnetic suspension segment, can supply excellent operational characteristics and thus enhance the operational reliability
 
@@ -87,6 +94,7 @@ The linear motor was naturally suited to use with maglev systems as well. In the
 The first commercial maglev people mover was simply called "MAGLEV" and officially opened in 1984 near Birmingham, England. It operated on an elevated 600 m (2,000 ft.) section of monorail track between Birmingham Airport and Birmingham International railway station, running at speeds up to 42 km/h (26 mph). The system was closed in 1995 due to reliability problems. 
 By the fourth quarter of Sunonwealth Electric Machine Industry Co., Ltd. (Sunon) developed the MagLev Motor Fan, the world’s first-ever cooling fan with zero friction and no contact between the shaft and the bearing during operation.
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## PROJECT OBJECTIVE
 
@@ -120,6 +128,8 @@ The power consumption of the machine is less compared to the conventional fans a
 
 - Less Maintenance
 The main reasons for the maintenance of traditional fans are recoiling and wear and tear. The levitation of rotor helps in reducing the maintenance as the heat dissipation is reduced well.
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## PROJECT ANALYSIS AND DESIGN
 
@@ -222,6 +232,8 @@ The basic principle – voltage across a capacitor is given as Vc = Q/C where Q 
 
 For example, consider a regulator that consists of 3 capacitors of 1 μF, 2.2 μF and 3.1 μF. When the knob position is at 1, then only 2.2 μF capacitor gets connected into the circuit. For knob position 2, only 3.1 μF capacitor gets connected. When the knob is at position 3, capacitors of 3.1 μF and 1 μF in parallel configuration is connected so that equivalent capacitance becomes 3.1+1=4.1 μF. For position 4, parallel configuration of 3.1 μF and 2.2 μF is connected. And for the maximum speed, no capacitor is connected in the circuit.
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 ## WORKING
 
 The working of the electromagnets and the induction motor are basically independent of each other. When the AC supply is given to the machine, the supply reaches the motor circuit after the regulation of voltage from the speed control circuit. This current flows through the stator coils, producing a magnetic field. This magnetic field links with the rotor provided near to these coils, exerting a force on it, which causes the rotor to rotate. This force on the rotor causes the ceiling fan to rotate, creating air circulation. The working block diagram of the MagLev fan is shown in figure 6.1
@@ -233,6 +245,8 @@ The combined operation of the stator and the electromagnets rotates the rotor, s
 At open switch condition, the rotor rests on the ball bearings provided at the base of the motor under gravitational force. When the supply is given, the fan rotates as a conventional fan. As the fan picks up the speed, the electromagnets provided above the rotor gets magnetised and lifts up the rotor from the supporting ball bearing structures and rotates on a cushion of air, above the ball bearings and below the elctromagnets. The speed controlling of the fan can be brought about by using either electronic regulator of capacitive regulator. While switching off the fan, the electromagnet slowly loses the magnetisation and the rotor smoothly lands back onto the ball bearings given below, giving no posible chance for wear and tear.
 
 The same motor can also be used to implement other electrical fan devices such as bathroom exhaust, air blowers, vacuum pumps, blowers in rice fields etc. where the design of the fan is changed. The bearing and magnet position is made axial such that 360º orientation of the motor is possible. In case of a ceiling fan, full angle orientation is irrelevant.
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## CONCLUSION
 
@@ -258,6 +272,9 @@ o	Lower power consumption
 
 •	 Thus we conclude that MagLev fans are more economical and efficient than normal conventional ceiling fans. 
  
+ ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+
 ## FUTURE SCOPES
 
 The reference design provided in this application note shows the reduction in power consumption by implementing the principles of magnetic levitation to single phase induction motors in ceiling fans. Further improvements can be made to the design by adding the following features: 
@@ -273,6 +290,9 @@ The reference design provided in this application note shows the reduction in po
 •	Always-on levitation system with the help of permanent magnets and weightless mechanical components.
 
 •	DC machine implemented MagLev fans using inverter circuits
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 
 ## REFERENCES
 
