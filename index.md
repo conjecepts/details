@@ -145,6 +145,8 @@ The same motor can also be used to implement other electrical fan devices such a
 
 ### ELECTROMAGNET
 
+![Electromagnet](https://en.wikipedia.org/wiki/File:Simple_electromagnet2.gif)
+
 An electromagnet is a type of magnet in which the magnetic field is produced by an electric current. The magnetic field disappears when the current is turned off. Electromagnets usually consist of insulated wire wound into a coil. A current through the wire creates a magnetic field which is concentrated in the hole in the center of the coil. The wire turns are often wound around a magnetic core made from a ferromagnetic or ferrimagnetic material such as iron; the magnetic core concentrates the magnetic flux and makes a more powerful magnet.
 
 The main advantage of an electromagnet over a permanent magnet is that the magnetic field can be quickly changed by controlling the amount of electric current in the winding. However, unlike a permanent magnet that needs no power, an electromagnet requires a continuous supply of current to maintain the magnetic field.
