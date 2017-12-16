@@ -114,23 +114,17 @@ The main advantages of MagLev fan that are the needs of the economy are given be
 -	Less loss due to friction 
 -	Long life
 
-- Low noise
-The main disadvantage of conventional electric fans is the frictional loss that takes place in the contact areas, shaft and the bearings. Here, in the maglev fan, friction is considerably eliminated, as there are no direct contact between stator and rotor. This in turn reduces the heat loss, noise and high power consumption due to friction.
+- **Low noise**: The main disadvantage of conventional electric fans is the frictional loss that takes place in the contact areas, shaft and the bearings. Here, in the maglev fan, friction is considerably eliminated, as there are no direct contact between stator and rotor. This in turn reduces the heat loss, noise and high power consumption due to friction.
 
-- Low operating cost
-The conventional electric fan comes in the market under the price range of INR 1000 to 5000. The number poles of the maglev fan are considerably less than the conventional fans. Thus the amount of copper (which accounts for major part of the budget) and steel sheet are very much less, considerably reducing the cost. The absence of Aluminium housing also account for low cost.
+- **Low operating cost**: The conventional electric fan comes in the market under the price range of INR 1000 to 5000. The number poles of the maglev fan are considerably less than the conventional fans. Thus the amount of copper (which accounts for major part of the budget) and steel sheet are very much less, considerably reducing the cost. The absence of Aluminium housing also account for low cost.
 
-- Less loss due to friction
-The main disadvantage of conventional electric fans is the frictional loss that takes place in the contact areas, shaft and the bearings. Here, in the maglev fan, friction is considerably eliminated, as there are no direct contact between stator and rotor. This in turn reduces the heat loss, noise and high power consumption due to friction
+- **Less loss due to friction**: The main disadvantage of conventional electric fans is the frictional loss that takes place in the contact areas, shaft and the bearings. Here, in the maglev fan, friction is considerably eliminated, as there are no direct contact between stator and rotor. This in turn reduces the heat loss, noise and high power consumption due to friction
 
-- High Temperature Endurance
-There is no noticeable friction between the stationary part and the rotating part as in conventional ceiling fans. Thus the suspension zero friction and keep a low temperature between the shaft and the bearings
+- **High Temperature Endurance**: There is no noticeable friction between the stationary part and the rotating part as in conventional ceiling fans. Thus the suspension zero friction and keep a low temperature between the shaft and the bearings
 
-- Lower power consumption
-The power consumption of the machine is less compared to the conventional fans as it uses electromagnets, which consumes 2-10W along with the frictionless rotor, which sums up the overall consumption around 30-50W, whereas the conventional system consumes 35-75W.
+- **Lower power consumption**: The power consumption of the machine is less compared to the conventional fans as it uses electromagnets, which consumes 2-10W along with the frictionless rotor, which sums up the overall consumption around 30-50W, whereas the conventional system consumes 35-75W.
 
-- Less Maintenance
-The main reasons for the maintenance of traditional fans are recoiling and wear and tear. The levitation of rotor helps in reducing the maintenance as the heat dissipation is reduced well.
+- **Less Maintenance**: The main reasons for the maintenance of traditional fans are recoiling and wear and tear. The levitation of rotor helps in reducing the maintenance as the heat dissipation is reduced well.
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
