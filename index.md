@@ -166,11 +166,11 @@ The larger the current passed through the wire coil, the more the domains align,
 
 An induction motor or asynchronous motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor. An induction motor's rotor can be either wound type or squirrel-cage type. Single phase power system is widely used as compared to three phase system for domestic purpose, commercial purpose and to some extent in industrial purpose. As the single phase system is more economical and the power requirement in most of the houses, shops, offices are small, which can be easily met by single phase system. The single phase motors are simple in construction, cheap in cost, reliable and easy to repair and maintain. 
 
-- **CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR
+- **CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR**
 
   The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
 
-  - **Stator of Single Phase Induction Motor
+  - **Stator of Single Phase Induction Motor**
 
     The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
@@ -188,17 +188,17 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 
     Except for shaded pole motor, the asynchronous motor has two stator windings namely the main winding and the auxiliary winding. These two windings are placed in space quadrature with respect to each other.
 
-  - **Rotor of Single Phase Induction Motor
+  - **Rotor of Single Phase Induction Motor**
 
     The construction of the rotor of the single phase induction motor is similar to the squirrel cage three phase induction motor. The rotor is cylindrical in shape and has slots all over its periphery. The slots are not made parallel to each other but are bit skewed as the skewing prevents magnetic locking of stator and rotor teeth and makes the working of induction motor more smooth and quieter i.e. less noise. The squirrel cage rotor consists of aluminum, brass or copper bars. These aluminum or copper bars are called rotor conductors and are placed in the slots on the periphery of the rotor. The rotor conductors are permanently shorted by the copper or aluminum rings called the end rings. In order to provide mechanical strength these rotor conductor are braced to the end ring and hence form a complete closed circuit resembling like a cage and hence got its name as squirrel cage induction motor. As the bars are permanently shorted by end rings, the rotor electrical resistance is very small and it is not possible to add external resistance as the bars are permanently shorted. The absence of slip ring and brushes make the construction of single phase induction motor very simple and robust.
 
-- **WORKING PRINCIPLE OF SINGLE PHASE INDUCTION MOTOR
+- **WORKING PRINCIPLE OF SINGLE PHASE INDUCTION MOTOR**
 
   When single phase AC supply is given to the stator winding of single phase induction motor, the alternating current starts flowing through the stator or main winding. This alternating current produces an alternating flux called main flux. This main flux also links with the rotor conductors and hence cut the rotor conductors. According to the Faraday’s law of electromagnetic induction, emf gets induced in the rotor. As the rotor circuit is closed one so, the current starts flowing in the rotor. This current is called the rotor current. This rotor current produces its own flux called rotor flux. Since this flux is produced due to induction principle so, the motor working on this principle got its name as induction motor. Now there are two fluxes one is main flux and another is called rotor flux. These two fluxes produce the desired torque which is required by the motor to rotate.
 
-- **THEORY OF OPERATION
+- **THEORY OF OPERATION**
   
-  - **Cross-field theory
+  - **Cross-field theory**
   
     The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in Figure 5.5
   
@@ -206,18 +206,18 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 The combined action of FS and FR produces a revolving magnetic field, similar to that in a three-phase motor. The value of FR increases with increasing speed, becoming almost equal to FS at synchronous speed. The flux rotates counterclockwise in the same direction as the rotor and it rotates at synchronous speed irrespective of the actual speed of the rotor. As the motor approaches synchronous speed, FR becomes almost equal to FS and a nearly perfect revolving field is produces.
 
 
-  - **Double-revolving field theory
+  - **Double-revolving field theory**
   
     The principle of operation of single-phase induction motor can also be explained by double revolving field theory.
 The single-phase supply given to the single-phase winding will produce pulsating field in the air gap. However, any pulsating field can be resolved into two components, equal in magnitude but oppositely rotating, as shown in Figure 5.6
  
-  - **Torque Slip Characteristics
+  - **Torque Slip Characteristics**
   
     The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in Figure 5.7
   
     Observe that the resultant torque is zero at standstill. But, if the rotor were rotated slightly in any direction, a net torque will result and the motor will continue to rotate in that direction. For example, if the rotor is started in the clockwise direction, the torque developed by field-1 will exceed torque developed by field-2 and the rotor will accelerate in that direction and reach the steady-state speed near synchronous speed at a slip dictated by the load.
 
-- **SPEED REGULATOR
+- **SPEED REGULATOR**
 
   A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in Figure 6.6
  
@@ -299,19 +299,19 @@ The reference design provided in this application note shows the reduction in po
 
 ## REFERENCES
 
--	`http://www.sunon.com/tw/products/pdf/technology.pdf “MagLev Motor Technology” by  Sunonwealth Electric Machine Industry Co., Ltd. USA
+-	`http://www.sunon.com/tw/products/pdf/technology.pdf “MagLev Motor Technology” by  Sunonwealth Electric Machine Industry Co., Ltd. USA`
 
--	K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )
+-	`K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )`
 
--	Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. 
+-	`Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. `
 
--	J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. 
+-	`J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. `
 
--	M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. 
+-`	M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. `
 
--	C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383. 
+-	`C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383.`
 
--	Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.`
+-	`Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.`
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
