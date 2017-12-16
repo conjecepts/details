@@ -299,19 +299,19 @@ The reference design provided in this application note shows the reduction in po
 
 ## REFERENCES
 
--	`http://www.sunon.com/tw/products/pdf/technology.pdf “MagLev Motor Technology” by  Sunonwealth Electric Machine Industry Co., Ltd. USA`
+-	“[MagLev Motor Technology](http://www.sunon.com/tw/products/pdf/technology.pdf )” by  Sunonwealth Electric Machine Industry Co., Ltd. USA
 
--	`K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )`
+-	K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )
 
--	`Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. `
+-	Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. 
 
--	`J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. `
+-	J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. 
 
--`	M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. `
+- M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. 
 
--	`C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383.`
+-	C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383.
 
--	`Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.`
+-	Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
