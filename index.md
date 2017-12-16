@@ -127,9 +127,13 @@ The MagLev motor fan works under the principles of magnetic levitation, where th
 
 ### BASIC DESIGN
 
-The rough design of MagLev fan is made using Rhinoceros 3D software. Figure 5.1 shows the exploded view of the design of MagLev fan. Here, the stator and the central hub of the machine is denoted using white color. The rotor and the leaves of the machine are marked using blue color and the electromagnets and its supporting ring is shown using red color
+The rough design of MagLev fan is made using Rhinoceros 3D software. Figure shows the exploded view of the design of MagLev fan. Here, the stator and the central hub of the machine is denoted using white color. The rotor and the leaves of the machine are marked using blue color and the electromagnets and its supporting ring is shown using red color
+
+![EV](https://raw.githubusercontent.com/conjecepts/conjecepts.github.io/master/Picture3.png)
 
 The design varies from conventional fans in various aspects. The number of poles required for the construction of this fan is only 8-12, whereas a conventional electric fan uses 18-22 poles. Thus the amount of steel required for construction and copper for winding is considerably reduced, reducing the weight of the stator and also mainly, the cost. There is no Aluminum housing required as the rotor runs independent of the stator. Whereas, dust caps are provides on the open parts in order to block the entry of atmospheric dust particles and to provide a good aesthetic appearance. The leaves of the fan are attached to the periphery of the rotor base, which are provided with the rotor steel sheets. The leaves of the fan can be made using fiber plastic in order to reduce the overall weight of the fan and also reducing the cost.
+
+![TV](https://raw.githubusercontent.com/conjecepts/conjecepts.github.io/master/Picture2.png) ![SV](https://raw.githubusercontent.com/conjecepts/conjecepts.github.io/master/Picture1.png)
 
 The same motor can also be used to implement other electrical fan devices such as bathroom exhaust, air blowers, vacuum pumps, blowers in rice fields etc. where the design of the fan is changed. The bearing and magnet position is made axial such that 360º orientation of the motor is possible. In case of a ceiling fan, full angle orientation is irrelevant.
 
@@ -242,6 +246,8 @@ The single-phase supply given to the single-phase winding will produce pulsating
 ## WORKING
 
 The working of the electromagnets and the induction motor are basically independent of each other. When the AC supply is given to the machine, the supply reaches the motor circuit after the regulation of voltage from the speed control circuit. This current flows through the stator coils, producing a magnetic field. This magnetic field links with the rotor provided near to these coils, exerting a force on it, which causes the rotor to rotate. This force on the rotor causes the ceiling fan to rotate, creating air circulation. The working block diagram of the MagLev fan is shown in figure.
+
+1[Working](https://raw.githubusercontent.com/conjecepts/conjecepts.github.io/master/1.png)
 
 The AC supply is also parallelly provided to the electromagnet circuit. The supply is first regulated enough so as to produce required magnetization of the electromagnets. These electromagnets after magnetization link with the rotor axially, attracting it toward the magnets. This causes the rotor to levitate and suspend itself in a thin cushion of air such that there exists no physical contact between the stator and the rotor. This helps the machine to attain higher speeds than a normal ceiling fan, due to the absence of friction between the stationary and moving parts of the machine.
 
