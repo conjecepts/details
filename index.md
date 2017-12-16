@@ -251,23 +251,23 @@ The same motor can also be used to implement other electrical fan devices such a
 A rational approach to reduction in the losses in daily use devices is represented in this project. Here we have adapted to design and re development an existing traditional ceiling fan working with a single phase induction motor to a MagLev fan that works under the principle of magnetic levitation, alongside electromagnetic induction.
 In this approach we have remodeled the conventional ceiling fan system, which comprises of a simple single phase induction motor, with a modified induction motor that additionally works under the principles of magnetic levitation, which helps to reduce the common losses in the traditional system.
 
-•	The concept of MagLev fan replaces the physical contacts between the stator and rotor of a ceiling fan by the principle of magnetic levitation.
+- The concept of MagLev fan replaces the physical contacts between the stator and rotor of a ceiling fan by the principle of magnetic levitation.
 
-•	 The main advantages of this system are
+- The main advantages of this system are
 
-o	Higher efficiency due to less frictional losses
+  - Higher efficiency due to less frictional losses
+  
+  - Better temperature endurance
 
-o	Better temperature endurance
+  - Cost efficient
 
-o	Cost efficient
+  -	Less maintenance
 
-o	Less maintenance
+  -	Lower power consumption
 
-o	Lower power consumption
+- The system of fans working under magnetic levitation principles has been adopted by companies to produce cooling fans in electronic appliances.
 
-•	The system of fans working under magnetic levitation principles has been adopted by companies to produce cooling fans in electronic appliances.
-
-•	 Thus we conclude that MagLev fans are more economical and efficient than normal conventional ceiling fans. 
+-	 Thus we conclude that MagLev fans are more economical and efficient than normal conventional ceiling fans. 
 
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
@@ -279,17 +279,17 @@ o	Lower power consumption
 
 The reference design provided in this application note shows the reduction in power consumption by implementing the principles of magnetic levitation to single phase induction motors in ceiling fans. Further improvements can be made to the design by adding the following features: 
 
-•	Complete MagLev system using permanent magnets, thus eliminating ball bearing base
+-	Complete MagLev system using permanent magnets, thus eliminating ball bearing base
 
-•	MagLev running of the fan using magnetic suspension as in MagLev trains
+-	MagLev running of the fan using magnetic suspension as in MagLev trains
 
-•	Speed regulation of the fan using frequency control.
+-	Speed regulation of the fan using frequency control.
 
-•	Substitution of separate electromagnets in place of windings of stator, thus reducing iron losses and copper losses.
+-	Substitution of separate electromagnets in place of windings of stator, thus reducing iron losses and copper losses.
 
-•	Always-on levitation system with the help of permanent magnets and weightless mechanical components.
+-	Always-on levitation system with the help of permanent magnets and weightless mechanical components.
 
-•	DC machine implemented MagLev fans using inverter circuits
+-	DC machine implemented MagLev fans using inverter circuits
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
@@ -298,19 +298,19 @@ The reference design provided in this application note shows the reduction in po
 
 ## REFERENCES
 
-[1]	http://www.sunon.com/tw/products/pdf/technology.pdf “MagLev Motor Technology” by  Sunonwealth Electric Machine Industry Co., Ltd. USA
+-	`http://www.sunon.com/tw/products/pdf/technology.pdf “MagLev Motor Technology” by  Sunonwealth Electric Machine Industry Co., Ltd. USA
 
-[2]	K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )
+-	K. Davey “Pulsed linear induction motors in Maglev applications” published in IEEE Transactions on Magnetics (Volume: 36, Issue: 5, Sep 2000 )
 
-[3]	Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. 
+-	Horng, Direct current brushless motor of radial air-gap, US Patent No. 6,538,357, Mar. 2003. 
 
-[4]	J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. 
+-	J.F. Gieras and M. Wing, Permanent Magnet Motor Technology, New York, Marcel Dekker, 2002. 
 
-[5]	M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. 
+-	M. Moallem and G.E. Dawson, "An improved magnetic equivalent circuit method for predicting the characteristics of highly saturated electromagnetic devices," IEEE Trans. Magn., vol. 34, no. 5, Sept. 1998, pp. 3632-V3635. 
 
-[6]	C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383. 
+-	C.-T. Liu and K.C. Chuang, "On the design of a disc-type surface mounted permanent magnet motor for electric scooter application," in Proc. IEEE IAS 37th Annual Meeting, vol. 1, Pittsburgh, PA, U.S.A., 2002, pp.377-383. 
 
-[7]	Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.
+-	Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.`
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
