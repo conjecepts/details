@@ -168,7 +168,7 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
 
 - **CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR**
 
-![Construction](http://img.motors-biz.com/ueditor/php/upload/image/20150916/1442395304119395.jpg)
+  ![Construction](http://img.motors-biz.com/ueditor/php/upload/image/20150916/1442395304119395.jpg)
 
   The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
 
@@ -202,7 +202,7 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
   
   - **Cross-field theory**
   
-  ![CFT](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/1200px-VFPt_Solenoid_correct2.svg.png)
+    ![CFT](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/1200px-VFPt_Solenoid_correct2.svg.png)
   
     The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in figure.
   
@@ -212,14 +212,14 @@ The combined action of FS and FR produces a revolving magnetic field, similar to
 
   - **Double-revolving field theory**
   
-  ![DFT](https://sub.allaboutcircuits.com/images/02485.png)
+    ![DFT](https://sub.allaboutcircuits.com/images/02485.png)
   
     The principle of operation of single-phase induction motor can also be explained by double revolving field theory.
 The single-phase supply given to the single-phase winding will produce pulsating field in the air gap. However, any pulsating field can be resolved into two components, equal in magnitude but oppositely rotating, as shown in figure.
  
   - **Torque Slip Characteristics**
   
-  ![TSC](https://www.electrical4u.com/images/february16/1456578543.gif)
+    ![TSC](https://www.electrical4u.com/images/february16/1456578543.gif)
   
     The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in figure.
   
@@ -229,9 +229,9 @@ The single-phase supply given to the single-phase winding will produce pulsating
 
   A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in figure.
  
-The basic principle – voltage across a capacitor is given as Vc = Q/C where Q is the charge and C is the capacitance. According to this formula C α 1/Vc (or voltage across capacitor is inversely proportional to the capacitance). Hence, if capacitance is increased then the voltage across the capacitor decreases allowing more voltage across the fan motor. Hence, if capacitance is increased, speed of the fan motor also increases. Capacitance is increased or decreased in a capacitive type regulator by connecting capacitors in different configurations.
+  The basic principle – voltage across a capacitor is given as Vc = Q/C where Q is the charge and C is the capacitance. According to this formula C α 1/Vc (or voltage across capacitor is inversely proportional to the capacitance). Hence, if capacitance is increased then the voltage across the capacitor decreases allowing more voltage across the fan motor. Hence, if capacitance is increased, speed of the fan motor also increases. Capacitance is increased or decreased in a capacitive type regulator by connecting capacitors in different configurations.
 
-![CSR](https://i.stack.imgur.com/atj3y.png)
+  ![CSR](https://i.stack.imgur.com/atj3y.png)
 
   For example, consider a regulator that consists of 3 capacitors of 1 μF, 2.2 μF and 3.1 μF. When the knob position is at 1, then only 2.2 μF capacitor gets connected into the circuit. For knob position 2, only 3.1 μF capacitor gets connected. When the knob is at position 3, capacitors of 3.1 μF and 1 μF in parallel configuration is connected so that equivalent capacitance becomes 3.1+1=4.1 μF. For position 4, parallel configuration of 3.1 μF and 2.2 μF is connected. And for the maximum speed, no capacitor is connected in the circuit.
 
