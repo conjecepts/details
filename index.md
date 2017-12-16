@@ -167,24 +167,25 @@ The larger the current passed through the wire coil, the more the domains align,
 An induction motor or asynchronous motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor. An induction motor's rotor can be either wound type or squirrel-cage type. Single phase power system is widely used as compared to three phase system for domestic purpose, commercial purpose and to some extent in industrial purpose. As the single phase system is more economical and the power requirement in most of the houses, shops, offices are small, which can be easily met by single phase system. The single phase motors are simple in construction, cheap in cost, reliable and easy to repair and maintain. 
 
 - CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR
- 
- The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
+
+  The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
 Stator of Single Phase Induction Motor
-The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
-Ns = 120f/P
+  The stator of the single phase induction motor has laminated stamping to reduce eddy current losses on its periphery. The slots are provided on its stamping to carry stator or main winding. In order to reduce the hysteresis losses, stamping are made up of silicon steel. When the stator winding is given a single phase AC supply, the magnetic field is produced and the motor rotates at a speed slightly less than the synchronous speed Ns which is given by
 
-Where, 
+ Ns = 120f/P
 
-f = supply voltage frequency, 
+  Where, 
 
-P = No. of poles of the motor.
+  f = supply voltage frequency, 
 
-The construction of the stator of asynchronous motor is similar to that of three phase induction motor except there are two dissimilarity in the winding part of the single phase induction motor.
+  P = No. of poles of the motor.
 
-Firstly the single phase induction motors are mostly provided with concentric coils. As the number of turns per coil can be easily adjusted with the help of concentric coils, the mmf distribution is almost sinusoidal.
+  The construction of the stator of asynchronous motor is similar to that of three phase induction motor except there are two dissimilarity in the winding part of the single phase induction motor.
 
-Except for shaded pole motor, the asynchronous motor has two stator windings namely the main winding and the auxiliary winding. These two windings are placed in space quadrature with respect to each other.
+  Firstly the single phase induction motors are mostly provided with concentric coils. As the number of turns per coil can be easily adjusted with the help of concentric coils, the mmf distribution is almost sinusoidal.
+
+  Except for shaded pole motor, the asynchronous motor has two stator windings namely the main winding and the auxiliary winding. These two windings are placed in space quadrature with respect to each other.
 
   - Rotor of Single Phase Induction Motor
 
