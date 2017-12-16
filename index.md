@@ -12,7 +12,7 @@ The aim of the project is to manufacture a simple, efficient and cost effective 
   
   - [PROJECT OBJECTIVE](https://conjecepts.github.io/details/#project-objective)
   
-  - [PROJECT DESIGN](https://conjecepts.github.io/details/#project-design)
+  - [PROJECT DESIGN](https://conjecepts.github.io/details/#project-analysis-and-design)
   
   - [WORKING](https://conjecepts.github.io/details/#working)
   
@@ -105,14 +105,7 @@ A rational approach to reduction in the losses in daily use devices is represent
 
 ### SCOPE OF THE PROJECT
 
-The main advantages of MagLev fan that are the needs of the economy are given below
--	Low Noise 
--	Low operating cost
--	High temperature endurance
--	Lower power consumption
--	Less Maintenance
--	Less loss due to friction 
--	Long life
+The main advantages of MagLev fan that are the needs of the economy are given below:
 
 - **Low noise**: The main disadvantage of conventional electric fans is the frictional loss that takes place in the contact areas, shaft and the bearings. Here, in the maglev fan, friction is considerably eliminated, as there are no direct contact between stator and rotor. This in turn reduces the heat loss, noise and high power consumption due to friction.
 
