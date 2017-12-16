@@ -77,7 +77,8 @@ This paper reviews and summarizes Maglev train technologies from an electrical e
 
 Linear induction and synchronous motors have been the favored approaches for achieving linear propulsion in the Maglev community. One alternative is PLIM, a less conventional pulsed linear induction motor. Among the advantages realized through PLIM are elimination of low power factor power transfer, smaller end winding overhang, and simpler electronics. Examined in this document are various embodiments of this approach with discrete rectangular guide way coils, and the tradeoffs to using full wave and half wave excitation pulses.
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
+
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## HISTORY
@@ -93,6 +94,8 @@ In the late 1940s, the British electrical engineer Eric Laithwaite, a professor 
 The linear motor was naturally suited to use with maglev systems as well. In the early 1970s, Laithwaite discovered a new arrangement of magnets, the magnetic river that allowed a single linear motor to produce both lift and forward thrust allowing a maglev system to be built with a single set of magnets. Working at the British Rail Research Division in Derby, along with teams at several civil engineering firms, the "transverse-flux" system was developed into a working system.
 The first commercial maglev people mover was simply called "MAGLEV" and officially opened in 1984 near Birmingham, England. It operated on an elevated 600 m (2,000 ft.) section of monorail track between Birmingham Airport and Birmingham International railway station, running at speeds up to 42 km/h (26 mph). The system was closed in 1995 due to reliability problems. 
 By the fourth quarter of Sunonwealth Electric Machine Industry Co., Ltd. (Sunon) developed the MagLev Motor Fan, the world’s first-ever cooling fan with zero friction and no contact between the shaft and the bearing during operation.
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -128,6 +131,8 @@ The power consumption of the machine is less compared to the conventional fans a
 
 - Less Maintenance
 The main reasons for the maintenance of traditional fans are recoiling and wear and tear. The levitation of rotor helps in reducing the maintenance as the heat dissipation is reduced well.
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -232,6 +237,8 @@ The basic principle – voltage across a capacitor is given as Vc = Q/C where Q 
 
 For example, consider a regulator that consists of 3 capacitors of 1 μF, 2.2 μF and 3.1 μF. When the knob position is at 1, then only 2.2 μF capacitor gets connected into the circuit. For knob position 2, only 3.1 μF capacitor gets connected. When the knob is at position 3, capacitors of 3.1 μF and 1 μF in parallel configuration is connected so that equivalent capacitance becomes 3.1+1=4.1 μF. For position 4, parallel configuration of 3.1 μF and 2.2 μF is connected. And for the maximum speed, no capacitor is connected in the circuit.
 
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
+
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## WORKING
@@ -245,6 +252,8 @@ The combined operation of the stator and the electromagnets rotates the rotor, s
 At open switch condition, the rotor rests on the ball bearings provided at the base of the motor under gravitational force. When the supply is given, the fan rotates as a conventional fan. As the fan picks up the speed, the electromagnets provided above the rotor gets magnetised and lifts up the rotor from the supporting ball bearing structures and rotates on a cushion of air, above the ball bearings and below the elctromagnets. The speed controlling of the fan can be brought about by using either electronic regulator of capacitive regulator. While switching off the fan, the electromagnet slowly loses the magnetisation and the rotor smoothly lands back onto the ball bearings given below, giving no posible chance for wear and tear.
 
 The same motor can also be used to implement other electrical fan devices such as bathroom exhaust, air blowers, vacuum pumps, blowers in rice fields etc. where the design of the fan is changed. The bearing and magnet position is made axial such that 360º orientation of the motor is possible. In case of a ceiling fan, full angle orientation is irrelevant.
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -271,6 +280,9 @@ o	Lower power consumption
 •	The system of fans working under magnetic levitation principles has been adopted by companies to produce cooling fans in electronic appliances.
 
 •	 Thus we conclude that MagLev fans are more economical and efficient than normal conventional ceiling fans. 
+
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
  
  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -291,6 +303,8 @@ The reference design provided in this application note shows the reduction in po
 
 •	DC machine implemented MagLev fans using inverter circuits
 
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
+
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 
@@ -310,5 +324,7 @@ The reference design provided in this application note shows the reduction in po
 
 [7]	Magsoft, FLUX 3D User’s Guide, Version 3.20, Troy, NY, U.S.A.: Magsoft Corp., Dec. 2000.
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/details/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO PROJECT PAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io/maglev)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://conjecepts.github.io)
 
