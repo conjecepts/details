@@ -145,7 +145,7 @@ The same motor can also be used to implement other electrical fan devices such a
 
 ### ELECTROMAGNET
 
-![Electromagnet](https://en.wikipedia.org/wiki/File:Simple_electromagnet2.gif)
+![Electromagnet](https://upload.wikimedia.org/wikipedia/commons/4/41/Simple_electromagnet2.gif)
 
 An electromagnet is a type of magnet in which the magnetic field is produced by an electric current. The magnetic field disappears when the current is turned off. Electromagnets usually consist of insulated wire wound into a coil. A current through the wire creates a magnetic field which is concentrated in the hole in the center of the coil. The wire turns are often wound around a magnetic core made from a ferromagnetic or ferrimagnetic material such as iron; the magnetic core concentrates the magnetic flux and makes a more powerful magnet.
 
@@ -167,6 +167,8 @@ The larger the current passed through the wire coil, the more the domains align,
 An induction motor or asynchronous motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor. An induction motor's rotor can be either wound type or squirrel-cage type. Single phase power system is widely used as compared to three phase system for domestic purpose, commercial purpose and to some extent in industrial purpose. As the single phase system is more economical and the power requirement in most of the houses, shops, offices are small, which can be easily met by single phase system. The single phase motors are simple in construction, cheap in cost, reliable and easy to repair and maintain. 
 
 - **CONSTRUCTION OF SINGLE PHASE INDUCTION MOTOR**
+
+![Construction](http://img.motors-biz.com/ueditor/php/upload/image/20150916/1442395304119395.jpg)
 
   The construction of single phase induction motor is almost similar to the squirrel cage three phase motor except that in case of asynchronous motor the stator have two windings instead of one as compare to the single stator winding in three phase induction motor.
 
@@ -200,7 +202,9 @@ An induction motor or asynchronous motor is an AC electric motor in which the el
   
   - **Cross-field theory**
   
-    The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in Figure 5.5
+  ![CFT](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/1200px-VFPt_Solenoid_correct2.svg.png)
+  
+    The principle of operation of a single-phase induction motor can be explained from the cross-field theory. As soon as the rotor begins to turn, a speed emf E is induced in the rotor conductors, as they cut the stator flux FS.  This voltage increases as the rotor speed increases. It causes current IR to flow in the rotor bars facing the stator poles as shown in figure.
   
     These currents produce an ac flux FR which acts at right angle to the stator flux FS. Equally important is the fact that FR does not reach its maximum value at the same time as FS does, in effect; FR lags almost 90º behind FS, owing to the inductance of the rotor
 The combined action of FS and FR produces a revolving magnetic field, similar to that in a three-phase motor. The value of FR increases with increasing speed, becoming almost equal to FS at synchronous speed. The flux rotates counterclockwise in the same direction as the rotor and it rotates at synchronous speed irrespective of the actual speed of the rotor. As the motor approaches synchronous speed, FR becomes almost equal to FS and a nearly perfect revolving field is produces.
@@ -208,21 +212,26 @@ The combined action of FS and FR produces a revolving magnetic field, similar to
 
   - **Double-revolving field theory**
   
+  ![DFT](https://sub.allaboutcircuits.com/images/02485.png)
+  
     The principle of operation of single-phase induction motor can also be explained by double revolving field theory.
-The single-phase supply given to the single-phase winding will produce pulsating field in the air gap. However, any pulsating field can be resolved into two components, equal in magnitude but oppositely rotating, as shown in Figure 5.6
+The single-phase supply given to the single-phase winding will produce pulsating field in the air gap. However, any pulsating field can be resolved into two components, equal in magnitude but oppositely rotating, as shown in figure.
  
   - **Torque Slip Characteristics**
   
-    The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in Figure 5.7
+  ![TSC](https://www.electrical4u.com/images/february16/1456578543.gif)
+  
+    The maximum value of each component is one-half of f. This method of analysis is commonly known as the double-revolving field theory. Each field component acts independently on the rotor and in a fashion similar to that of the rotating field in a three-phase motor. The clockwise component produces the torque characteristic torque developed by field-1 while the counterclockwise component produces the torque torque developed by field-2 as shown in figure.
   
     Observe that the resultant torque is zero at standstill. But, if the rotor were rotated slightly in any direction, a net torque will result and the motor will continue to rotate in that direction. For example, if the rotor is started in the clockwise direction, the torque developed by field-1 will exceed torque developed by field-2 and the rotor will accelerate in that direction and reach the steady-state speed near synchronous speed at a slip dictated by the load.
 
 - **SPEED REGULATOR**
 
-  A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in Figure 6.6
+  A variable capacitance in series (usually few capacitors connected together with some tappings corresponding to each step) is used in this regulator. As we turn the knob the capacitance increases and it reduces the voltage available to the fan. For example the fan rated 230V may get only 180V due to voltage division. This will reduce the fan speed. There is nearly no power loss in this method. The losses incurred are due to resistive losses inside the capacitor which is negligible. So a fan with rating 230V, 50W will consume only 25-30 Watts at low speeds. There are no heating problems and the capacitor improves the power factor of the circuit. They are less bulky than resistive controllers. The circuit diagram of step type or capacitive type speed regulator for single phase induction motor ceiling fans is shown in figure.
  
+The basic principle – voltage across a capacitor is given as Vc = Q/C where Q is the charge and C is the capacitance. According to this formula C α 1/Vc (or voltage across capacitor is inversely proportional to the capacitance). Hence, if capacitance is increased then the voltage across the capacitor decreases allowing more voltage across the fan motor. Hence, if capacitance is increased, speed of the fan motor also increases. Capacitance is increased or decreased in a capacitive type regulator by connecting capacitors in different configurations.
 
-  The basic principle – voltage across a capacitor is given as Vc = Q/C where Q is the charge and C is the capacitance. According to this formula C α 1/Vc (or voltage across capacitor is inversely proportional to the capacitance). Hence, if capacitance is increased then the voltage across the capacitor decreases allowing more voltage across the fan motor. Hence, if capacitance is increased, speed of the fan motor also increases. Capacitance is increased or decreased in a capacitive type regulator by connecting capacitors in different configurations.
+![CSR](https://i.stack.imgur.com/atj3y.png)
 
   For example, consider a regulator that consists of 3 capacitors of 1 μF, 2.2 μF and 3.1 μF. When the knob position is at 1, then only 2.2 μF capacitor gets connected into the circuit. For knob position 2, only 3.1 μF capacitor gets connected. When the knob is at position 3, capacitors of 3.1 μF and 1 μF in parallel configuration is connected so that equivalent capacitance becomes 3.1+1=4.1 μF. For position 4, parallel configuration of 3.1 μF and 2.2 μF is connected. And for the maximum speed, no capacitor is connected in the circuit.
 
@@ -232,7 +241,7 @@ The single-phase supply given to the single-phase winding will produce pulsating
 
 ## WORKING
 
-The working of the electromagnets and the induction motor are basically independent of each other. When the AC supply is given to the machine, the supply reaches the motor circuit after the regulation of voltage from the speed control circuit. This current flows through the stator coils, producing a magnetic field. This magnetic field links with the rotor provided near to these coils, exerting a force on it, which causes the rotor to rotate. This force on the rotor causes the ceiling fan to rotate, creating air circulation. The working block diagram of the MagLev fan is shown in figure 6.1
+The working of the electromagnets and the induction motor are basically independent of each other. When the AC supply is given to the machine, the supply reaches the motor circuit after the regulation of voltage from the speed control circuit. This current flows through the stator coils, producing a magnetic field. This magnetic field links with the rotor provided near to these coils, exerting a force on it, which causes the rotor to rotate. This force on the rotor causes the ceiling fan to rotate, creating air circulation. The working block diagram of the MagLev fan is shown in figure.
 
 The AC supply is also parallelly provided to the electromagnet circuit. The supply is first regulated enough so as to produce required magnetization of the electromagnets. These electromagnets after magnetization link with the rotor axially, attracting it toward the magnets. This causes the rotor to levitate and suspend itself in a thin cushion of air such that there exists no physical contact between the stator and the rotor. This helps the machine to attain higher speeds than a normal ceiling fan, due to the absence of friction between the stationary and moving parts of the machine.
 
